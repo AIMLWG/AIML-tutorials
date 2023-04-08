@@ -1,0 +1,3 @@
+[submodule "KNN-Tutorial"]
+	path = notebooks/submodules/KNN-Tutorial
+	url = git@github.com:JackieLee23/KNN-Tutorial.git
