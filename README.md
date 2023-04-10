@@ -2,17 +2,16 @@
 
 Repository for containing the tutorial series for the AI/ML working group. The tutorials can be opened using Jupyter, Google Colab, etc.
 
-# Tutorial notebooks
 
 | Tutorial  | Author | Colab link | Presentation |
 | ------------- | ------------- | ------------- | ------------- |
-| Tabular data | [Matthew R. Carbone](https://github.com/matthewcarbone) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matthewcarbone/AIML-tutorials/blob/master/notebooks/TabularData.ipynb) | Coming soon! |
+| NumPy and tabular data | [Matthew R. Carbone](https://github.com/matthewcarbone) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matthewcarbone/AIML-tutorials/blob/master/notebooks/TabularData.ipynb) | Coming soon! |
 | K-nearest neighbors regression | [Jackson Lee](https://github.com/JackieLee23) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matthewcarbone/AIML-tutorials/blob/notebooks/submodules/KNN-Tutorial/KNN_tutorial.ipynb) | [link](https://indico.bnl.gov/event/18154/contributions/72367/attachments/45633/77101/tutorial%20recording.mp4) |
 | Random forests | [Matthew R. Carbone](https://github.com/matthewcarbone) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matthewcarbone/AIML-tutorials/blob/master/notebooks/RandomForests.ipynb) | Coming soon! |
 
 ## Legacy series
 
-https://indico.bnl.gov/event/13830/timetable/
+The event link on `indico.bnl.gov` can be found [here](https://indico.bnl.gov/event/13830/timetable/).
 
 | Tutorial  | Author | Colab link | Presentation |
 | ------------- | ------------- | ------------- | ------------- |
