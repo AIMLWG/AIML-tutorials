@@ -1,18 +1,31 @@
-# AIML-tutorials
+<div align=center>
 
-Repository for containing the tutorial series for the AI/ML working group. The tutorials can be opened using Jupyter, Google Colab, etc.
+# Artificial Intelligence and Machine Learning Tutorials
+  
+_Tutorial seminars presented as part of the Brookhaven National Laboratory [AI/ML Working Group](https://www.bnl.gov/aiml/)_
 
+</div>
+  
+# 📓 Tutorials
+
+<div align=center>
 
 | Tutorial  | Author | Colab link | Presentation |
 | ------------- | ------------- | ------------- | ------------- |
 | NumPy and tabular data | [Matthew R. Carbone](https://github.com/matthewcarbone) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matthewcarbone/AIML-tutorials/blob/master/notebooks/TabularData.ipynb) | [link](https://indico.bnl.gov/event/19191/contributions/75718/attachments/47300/80216/Numpy_and_tabular_data.mp4) |
 | [K-nearest neighbors regression](https://github.com/JackieLee23/KNN-Tutorial) | [Jackson Lee](https://github.com/JackieLee23) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JackieLee23/KNN-Tutorial/blob/b4ceffecac9fec0ad6cb94dc835cf2b96585bea6/KNN_tutorial.ipynb) | [link](https://indico.bnl.gov/event/18154/contributions/72367/attachments/45633/77101/tutorial%20recording.mp4) |
-| Random forests | [Matthew R. Carbone](https://github.com/matthewcarbone) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matthewcarbone/AIML-tutorials/blob/master/notebooks/RandomForests.ipynb) | Coming soon! |
+| Random forests | [Matthew R. Carbone](https://github.com/matthewcarbone) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matthewcarbone/AIML-tutorials/blob/master/notebooks/RandomForests.ipynb) | [link](https://indico.bnl.gov/event/19192/contributions/75719/attachments/47380/80348/Random_Forests.mp4) |
+| Dimensionality reduction | [Matthew R. Carbone](https://github.com/matthewcarbone) | coming soon! | coming soon! |
+  
+  
+</div>
 
 
-## Legacy series
+# 💽 Legacy series
 
 The event link on `indico.bnl.gov` can be found [here](https://indico.bnl.gov/event/13830/timetable/).
+
+<div align=center>
 
 | Tutorial  | Author | Colab link | Presentation |
 | ------------- | ------------- | ------------- | ------------- |
@@ -22,11 +35,11 @@ The event link on `indico.bnl.gov` can be found [here](https://indico.bnl.gov/ev
 | Introduction to PyTorch and autograd | [Yihui (Ray) Ren](https://github.com/YHRen) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matthewcarbone/AIML-tutorials/blob/master/notebooks/legacy/003_PyTorch.ipynb) | [link](https://indico.bnl.gov/event/13830/contributions/57342/attachments/38803/79560/3_PyTorch.mp4) |
 | Introduction of CNNs and image classification | Sandeep Mittal | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matthewcarbone/AIML-tutorials/blob/master/notebooks/legacy/004_CNN.ipynb) | [link](https://indico.bnl.gov/event/13830/contributions/57343/attachments/38845/79561/4_CNN.mp4) |
 
+</div>
+  
 # Funding acknowledgement
 
 This work is partly supported by the Brookhaven National Laboratory Center for Computing Sciences Education and Support (CCSES), and by Brookhaven National Laboratory under Contract No. DE-SC0012704.
-
-## Disclaimer
 
 The Software resulted from work developed under a U.S. Government Contract No. DE-SC0012704 and are subject to the following terms: the U.S. Government is granted for itself and others acting on its behalf a paid-up, nonexclusive, irrevocable worldwide license in this computer software and data to reproduce, prepare derivative works, and perform publicly and display publicly.
 
