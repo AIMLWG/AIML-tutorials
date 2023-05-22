@@ -15,7 +15,7 @@ _Tutorial seminars presented as part of the Brookhaven National Laboratory [AI/M
 | NumPy and tabular data | [Matthew R. Carbone](https://github.com/matthewcarbone) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matthewcarbone/AIML-tutorials/blob/master/notebooks/TabularData.ipynb) | [link](https://indico.bnl.gov/event/19191/contributions/75718/attachments/47300/80216/Numpy_and_tabular_data.mp4) |
 | [K-nearest neighbors regression](https://github.com/JackieLee23/KNN-Tutorial) | [Jackson Lee](https://github.com/JackieLee23) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JackieLee23/KNN-Tutorial/blob/b4ceffecac9fec0ad6cb94dc835cf2b96585bea6/KNN_tutorial.ipynb) | [link](https://indico.bnl.gov/event/18154/contributions/72367/attachments/45633/77101/tutorial%20recording.mp4) |
 | Random forests | [Matthew R. Carbone](https://github.com/matthewcarbone) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matthewcarbone/AIML-tutorials/blob/master/notebooks/RandomForests.ipynb) | [link](https://indico.bnl.gov/event/19192/contributions/75719/attachments/47380/80348/Random_Forests.mp4) |
-| Dimensionality reduction | [Matthew R. Carbone](https://github.com/matthewcarbone) | coming soon! | coming soon! |
+| Dimensionality reduction | [Matthew R. Carbone](https://github.com/matthewcarbone) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matthewcarbone/AIML-tutorials/blob/master/notebooks/DimensionalityReduction.ipynb) | coming soon! |
   
   
 </div>
