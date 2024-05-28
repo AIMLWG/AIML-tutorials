@@ -22,6 +22,7 @@ _Tutorial seminars presented as part of the Brookhaven National Laboratory [AI/M
 | Gaussian Processes                                                            | [Maxim Ziatdinov](https://github.com/ziatdinovmax)      | [link](https://github.com/AIMLWG/AIML-tutorials/tree/master/notebooks/gpax_examples) | [link](https://indico.bnl.gov/event/19191) |
 | PyTorch Essentials                                                            | [Felix Jimenez](https://felix-jimenez.com/)                                           | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AIMLWG/AIML-tutorials/blob/master/notebooks/PyTorchEssentials.ipynb) | coming soon!                               |
 | Generating Molecules via Transformer: a Brief Introduction                                                            | [Tim Hsu](https://github.com/tim-hsu)                                           | coming soon! | coming soon!                               |
+| PCA & t-SNE | Huan-Hsin Tseng | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HHTseng/Tutorial_PCA_SNE/blob/main/Data_dimension_reduction.ipynb) | coming soon!
 
 
 </div>
